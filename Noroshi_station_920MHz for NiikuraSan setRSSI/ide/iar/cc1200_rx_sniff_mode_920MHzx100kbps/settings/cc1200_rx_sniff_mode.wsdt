@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>cc1200_rx_sniff_mode/RX</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>289</Column0><Column1>0</Column1><Column2>3</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+    <DRIVER_CUSTOM_SFR><col-names><item>Access</item><item>Address</item><item>Name</item><item>Size</item><item>Zone</item><item>_I0</item></col-names><col-widths><item>120</item><item>150</item><item>150</item><item>50</item><item>120</item><item>20</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></DRIVER_CUSTOM_SFR><Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>798</ColumnWidth1><ColumnWidth2>212</ColumnWidth2><ColumnWidth3>53</ColumnWidth3></Build><TerminalIO/><Select-Ambiguous-Definitions><ColumnWidth0>416</ColumnWidth0><ColumnWidth1>59</ColumnWidth1><ColumnWidth2>714</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8870-11596</Identity>
+            <TabName>&#x30eF;&#x30FC;&#x30AF;&#x30B9;&#x30DA;&#x30FC;&#x30B9;</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>cc1200_rx_sniff_mode</ExpandedNode><ExpandedNode>cc1200_rx_sniff_mode/Output</ExpandedNode><ExpandedNode>cc1200_rx_sniff_mode/hal</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-29897-21930</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-10776-15371</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\cc1200_rx_sniff_mode\cc1200_rx_sniff_mode_rx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>127</YPos2><SelStart2>4236</SelStart2><SelEnd2>4236</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\cc1200_rx_sniff_mode\uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>563</YPos2><SelStart2>14918</SelStart2><SelEnd2>14918</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00C8C240><key>iaridepm.enu1</key></Toolbar-00C8C240></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>492</Bottom><Right>312</Right><x>-2</x><y>-2</y><xscreen>280</xscreen><yscreen>300</yscreen><sizeHorzCX>266921</sizeHorzCX><sizeHorzCY>389610</sizeHorzCY><sizeVertCX>299333</sizeVertCX><sizeVertCY>641558</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>233</Bottom><Right>1051</Right><x>-2</x><y>-2</y><xscreen>1053</xscreen><yscreen>235</yscreen><sizeHorzCX>1003813</sizeHorzCX><sizeHorzCY>305195</sizeHorzCY><sizeVertCX>338418</sizeVertCX><sizeVertCY>305195</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
